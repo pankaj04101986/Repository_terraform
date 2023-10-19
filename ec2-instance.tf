@@ -1,3 +1,5 @@
+#this is practicle mode
+
 provider "aws" {
   region = "ap-south-1"
 }
